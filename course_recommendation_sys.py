@@ -99,4 +99,4 @@ def recommend_course(title,num_of_rec=10):
     rec_df['similarity_scores'] = selected_course_scores
     return rec_df.head(num_of_rec)
 
-recommend_course('Trading Stock Chart Patterns For Immediate, Explosive Gains') #the qoutes can be changed into any course in the databse
+recommend_course('Trading Stock Chart Patterns For Immediate, Explosive Gains') #the qoutes can be changed into any course in the udemy databse
