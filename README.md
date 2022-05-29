@@ -1,7 +1,7 @@
 # Hack-Q-thon
    ![image](https://user-images.githubusercontent.com/92415264/170872353-ae03449c-1d24-47da-9ce3-329fca56b1e0.png)
 
-                                                            ![center]HACKTOPIA
+                                                            HACKTOPIA
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pharetra ac risus ut convallis. Cras vel massa sed massa hendrerit consequat hendrerit et nibh. Nullam leo neque, porta ut efficitur sed, sollicitudin ut metus. Fusce et interdum felis, eget sollicitudin mauris. Donec augue erat, porta non molestie non, fermentum vitae diam. Morbi et ornare elit. Integer vitae risus erat.
 
