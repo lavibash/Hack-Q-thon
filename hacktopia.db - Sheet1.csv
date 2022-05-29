@@ -1,0 +1,12 @@
+Question_Id,Question,Answer_1[Correct],Answer_2,Answer_3,Answer_4,Points
+1,What quantum gate sequence can generate entanglement?,Hadamard and CNOT,Hadamard and Pauli-X,CNOT and NOT,Hadamard and NOT,2
+2,What is the basic unit of information for quantum computers?,qubits,quantum computing,cbits,quantum computer,2
+3,What does the Haddmard gate do?,is used to form a random input,is used to compute one not the other,is used to disentangle qubits,is used to form a not random input,2
+4,What does a CNOT gate do?,is used to entanlge 2 qubits.,is used to form a random input,is used to compute one not the other,is used to disentangle qubits,2
+5,How many qubits do you need to proccess 32 probabilities?,5,1,2,3,2
+6,How many probabilities can you process with 11 qubits?,2048,1,2,3,2
+7,How many qubits do you need to proccess 52 probabilities?,6,1,2,3,2
+8,What is Shor's Algorithm,"is a algorthim that factors a prime number efficently. Where, classical computers do not have a algorthim like Shor's algorithm. _______ can be used for things like credit card numbers to crytography.","is a search algorithm that makes search engines faster. It states that if you have N values, you have to search through an average square root of N values. And, for a classical computer, you have to search through N/2 values.",,,2
+9,What is Grover's Algorithm,"is a search algorithim that makes search engines faster. It states that if you have N values, you have to search through a average square root of N values. And, for a classical computer, you have to search through N/2 values.","is a algorthim that factor's a prime number efficently. Where, classical computers do not have a algorthim like Shor's algorhtim. _______ can be used for things like credit card numbers to crytogrophy.",,,2
+10,What is the average amount of tries does it take a quantum computer to choose for a green circle when there are 15999 purple circles and 1 green circle,40,1,2,3,2
+11,What is the average amount of tries does it take a classical computer to choose for a green circle when there are 15999 purple circles and 1 green circle,800,1,2,3,2
